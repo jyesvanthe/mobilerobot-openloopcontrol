@@ -101,7 +101,8 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![Alt text](<Screenshot 2024-01-01 124456.png>)
+![Screenshot 2024-01-01 124456](https://github.com/jyesvanthe/mobilerobot-openloopcontrol/assets/150319392/0d6f4bb9-ba5c-4f19-b455-e2f310340f72)
+
 
 
 
